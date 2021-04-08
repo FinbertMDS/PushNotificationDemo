@@ -37,7 +37,7 @@
         <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
       </intent-filter>
     </receiver>
-    ]
+
     <!-- Pushy Boot Receiver -->
     <!-- Do not modify - internal BroadcastReceiver that restarts the listener service -->
     <receiver android:name="com.pushnotification.receivers.PushyBootReceiver" android:exported="false">
